@@ -5,6 +5,7 @@ langchain-core
 langchain-community
 langchain-huggingface
 langchain-text-splitters
+langchain-anthropic
 sentence-transformers
 faiss-cpu
 rank-bm25
