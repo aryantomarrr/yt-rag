@@ -1,0 +1,14 @@
+streamlit
+huggingface_hub
+youtube-transcript-api>=1.0
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+rank-bm25
+pypdf
+python-dotenv
+pandas
+numpy

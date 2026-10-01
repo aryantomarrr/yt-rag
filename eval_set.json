@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What are output parsers?",
+    "ground_truth": "The transcript covers output parsers as a topic, including Str Output Parser, JSON Output Parser, Structured Output Parser, and Pydantic Output Parser."
+  },
+  {
+    "question": "What output parsers are discussed in the transcript?",
+    "ground_truth": "The transcript discusses Str Output Parser, JSON Output Parser, Structured Output Parser, and Pydantic Output Parser."
+  },
+  {
+    "question": "What is the Str Output Parser?",
+    "ground_truth": "The transcript lists Str Output Parser as one of the output parser topics."
+  },
+  {
+    "question": "What is the JSON Output Parser?",
+    "ground_truth": "The transcript lists JSON Output Parser as one of the output parser topics."
+  },
+  {
+    "question": "What is the Structured Output Parser?",
+    "ground_truth": "The transcript lists Structured Output Parser as one of the output parser topics."
+  },
+  {
+    "question": "What is the Pydantic Output Parser?",
+    "ground_truth": "The transcript lists Pydantic Output Parser as one of the output parser topics."
+  },
+  {
+    "question": "How many specific output parser types are listed in the transcript?",
+    "ground_truth": "Four specific output parser types are listed: Str Output Parser, JSON Output Parser, Structured Output Parser, and Pydantic Output Parser."
+  },
+  {
+    "question": "Which parser topics are covered after the recap?",
+    "ground_truth": "After the recap, the transcript covers Output Parsers, Str Output Parser, JSON Output Parser, Structured Output Parser, and Pydantic Output Parser."
+  },
+  {
+    "question": "Does the transcript mention Pydantic Output Parser?",
+    "ground_truth": "Yes. Pydantic Output Parser is explicitly listed in the transcript."
+  },
+  {
+    "question": "Does the transcript mention JSON Output Parser?",
+    "ground_truth": "Yes. JSON Output Parser is explicitly listed in the transcript."
+  },
+  {
+    "question": "Does the transcript mention XML Output Parser?",
+    "ground_truth": "No. XML Output Parser is not mentioned in the provided transcript."
+  },
+  {
+    "question": "Does the transcript mention CSV Output Parser?",
+    "ground_truth": "No. CSV Output Parser is not mentioned in the provided transcript."
+  }
+]
